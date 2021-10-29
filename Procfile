@@ -1,1 +1,1 @@
-worker: python Teaser Bot.py
+worker: python TeaserBot.py
